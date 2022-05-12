@@ -4,4 +4,5 @@
 |:----:|:---| :---- | :----- | 
 |Neeraj Gautam|99007845| Embedded Track B | Industrial and Consumer Products |
 |Yogesh Surve|99007863 | Embedded Track B | Industrial and Consumer Products | 
-|Gaurav Pawar|99007841 | Embedded Track B | Industrial and Consumer Products | 
+|Gaurav Pawar|99007841 | Embedded Track B | Industrial and Consumer Products |
+|Anshul Thakur|99007846| Embedded Track B | Industrial and Consumer Products |
